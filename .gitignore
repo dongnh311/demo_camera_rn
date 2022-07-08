@@ -2,5 +2,6 @@ node_modules
 __tests__
 ios/Pods
 ios/build
+ios/build/generated
 android/.gradle
 android/build
