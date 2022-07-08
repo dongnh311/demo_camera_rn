@@ -1,6 +1,0 @@
-module Pods_DemoCamera_DemoCameraTests {
-  umbrella header "Pods-DemoCamera-DemoCameraTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
