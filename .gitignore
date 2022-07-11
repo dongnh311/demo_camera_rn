@@ -5,3 +5,6 @@ ios/build
 ios/build/generated
 android/.gradle
 android/build
+android/app/build
+.bundle
+android/.idea
